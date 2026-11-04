@@ -1,9 +1,9 @@
 # Data Analytics ML Challenge — Tercer Corte (2026-2)
 
 ## 📌 Información General
-* **Estudiante:** [Tu Nombre Completo]
-* **ID Asignado:** [Tu ID, ej: 01]
-* **Semilla Numérica:** `1001` (1000 + ID)
+* **Estudiante:** [Xavier Alexander Bravo Berroterán]
+* **ID Asignado:** [Tu 03]
+* **Semilla Numérica:** `1003` 
 * **Asignatura:** Data Analytics
 * **Profesor:** Elias Buitrago Bolivar
 * **Institución:** Universidad Central
