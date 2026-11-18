@@ -2,11 +2,11 @@
   "laboratorio": "S12",
   "id_estudiante": "03",
   "semilla": 1003,
-  "timestamp_utc": "2026-11-11T18:02:42.803173+00:00",
-  "python": "3.12.7",
-  "pandas": "2.2.2",
-  "numpy": "1.26.4",
-  "sklearn": "1.5.1",
+  "timestamp_utc": "2026-11-18T15:55:18.722944+00:00",
+  "python": "3.13.9",
+  "pandas": "2.3.3",
+  "numpy": "2.3.5",
+  "sklearn": "1.7.2",
   "n_muestra": 35000,
   "n_train": 24500,
   "n_valid": 5250,
@@ -55,5 +55,5 @@
     "ap": 0.18906097344273096
   },
   "costo_errores_brl": 11544.0,
-  "mae_regresion": 5.184754765906507
+  "mae_regresion": 5.185470254136522
 }
